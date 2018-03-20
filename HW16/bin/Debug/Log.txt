@@ -1,0 +1,61 @@
+3/20/2018 2:20:30 PM, No File Found
+3/20/2018 2:34:22 PM, process start
+3/20/2018 2:34:36 PM, No File Found
+3/20/2018 2:34:42 PM, No File Found
+3/20/2018 2:34:43 PM, No File Found
+3/20/2018 2:34:44 PM, No File Found
+3/20/2018 2:40:43 PM, process start
+3/20/2018 2:44:36 PM, process start
+3/20/2018 2:49:33 PM, process start
+3/20/2018 2:49:37 PM, No File Found
+3/20/2018 2:55:14 PM, process start
+3/20/2018 2:55:15 PM, process end
+3/20/2018 2:58:17 PM, process Start
+3/20/2018 2:58:19 PM, process end
+3/20/2018 3:03:14 PM, process Start
+3/20/2018 3:03:21 PM, No File Found
+3/20/2018 3:03:34 PM, process end
+3/20/2018 3:04:40 PM, process Start
+3/20/2018 3:05:01 PM, No File Found
+3/20/2018 3:05:02 PM, No File Found
+3/20/2018 3:05:02 PM, No File Found
+3/20/2018 3:05:02 PM, No File Found
+3/20/2018 3:05:02 PM, No File Found
+3/20/2018 3:05:07 PM, No File Found
+3/20/2018 3:05:14 PM, No File Found
+3/20/2018 3:05:17 PM, process end
+3/20/2018 3:05:37 PM, process Start
+3/20/2018 3:05:41 PM, No File Found
+3/20/2018 3:05:46 PM, process end
+3/20/2018 3:06:17 PM, process Start
+3/20/2018 3:06:18 PM, process end
+3/20/2018 3:06:20 PM, process end
+3/20/2018 3:08:10 PM, process Start
+3/20/2018 3:08:11 PM, Fields Are Cleaned
+3/20/2018 3:08:12 PM, process end
+3/20/2018 3:09:30 PM, process Start
+3/20/2018 3:09:43 PM, No File Found
+3/20/2018 3:09:46 PM, Fields Are Cleaned
+3/20/2018 3:09:47 PM, process end
+
+
+
+
+
+
+3/20/2018 3:10:31 PM, process Start
+3/20/2018 3:10:39 PM, No File Found
+3/20/2018 3:10:43 PM, Fields Are Cleaned
+3/20/2018 3:10:46 PM, process end
+3/20/2018 3:11:44 PM, process Start
+3/20/2018 3:11:55 PM, No File Found
+3/20/2018 3:13:12 PM, No File Found
+3/20/2018 3:13:15 PM, Fields Are Cleaned
+3/20/2018 3:13:35 PM, No File Found
+3/20/2018 3:13:51 PM, No File Found
+3/20/2018 3:13:58 PM, process end
+3/20/2018 3:20:56 PM, process Start
+3/20/2018 3:24:25 PM, process Start
+3/20/2018 3:24:27 PM, process end
+3/20/2018 3:40:01 PM, process Start
+3/20/2018 3:40:04 PM, process end

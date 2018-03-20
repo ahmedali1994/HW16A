@@ -1,0 +1,10 @@
+c:\users\clevelandcodes\source\repos\HW16\bin\Debug\HW16.exe.config
+c:\users\clevelandcodes\source\repos\HW16\bin\Debug\HW16.exe
+c:\users\clevelandcodes\source\repos\HW16\bin\Debug\HW16.pdb
+c:\users\clevelandcodes\source\repos\HW16\obj\Debug\HW16.Form1.resources
+c:\users\clevelandcodes\source\repos\HW16\obj\Debug\HW16.Properties.Resources.resources
+c:\users\clevelandcodes\source\repos\HW16\obj\Debug\HW16.csproj.GenerateResource.Cache
+c:\users\clevelandcodes\source\repos\HW16\obj\Debug\HW16.csproj.CoreCompileInputs.cache
+c:\users\clevelandcodes\source\repos\HW16\obj\Debug\HW16.exe
+c:\users\clevelandcodes\source\repos\HW16\obj\Debug\HW16.pdb
+c:\users\clevelandcodes\source\repos\HW16\obj\Debug\HW16.csprojResolveAssemblyReference.cache
